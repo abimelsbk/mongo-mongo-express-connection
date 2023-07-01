@@ -1,3 +1,5 @@
+![image info](home.png)
+
 Go to https://hub.docker.com/
 
 search for the images mongo and mongo-express or navigate to the below links respectively
