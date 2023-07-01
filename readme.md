@@ -1,5 +1,7 @@
 ![image info](home.png)
 
+##Guide
+
 Go to https://hub.docker.com/
 
 search for the images mongo and mongo-express or navigate to the below links respectively
@@ -17,6 +19,9 @@ to run the yaml file i had given in this repo
 
 navigate to http://localhost:8081/
 to use the deployed application
+
+checkout the documentation for more info
+https://docs.docker.com/compose/
 
 
 
